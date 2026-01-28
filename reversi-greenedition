@@ -1,0 +1,93 @@
+#header h1.heading a,
+#dashboard a,
+.filters .expander,
+#main .favorite .heading {
+  color: #d8f3dc;
+}
+
+#header #greeting a:hover,
+#header .primary a:hover,
+#header .dropdown .menu a:hover,
+#search .button:hover,
+#main .actions a:hover,
+#main .action:hover,
+#main .actions input:hover,
+#main .actions label:hover,
+#main .current,
+#main .pagination .current,
+#footer,
+#dashboard a:hover,
+#main .favorite a:hover,
+li.chapter button.collapsed:hover,
+li.download button.collapsed:hover,
+#main .work button:hover,
+#main input[type="submit"]:hover {
+  color: #d8f3dc;
+  background-color: #04100c;
+}
+
+#search .button,
+#search .text,
+#main .actions a,
+#main .action,
+#main .actions input,
+#main .actions label,
+#header input[type="submit"],
+#main input[type="submit"],
+li.chapter button.collapsed,
+li.download button.collapsed,
+#main .work button {
+  background: transparent;
+  color: #d8f3dc;
+  background-color: #1B4332;
+}
+
+#main h4.heading a,
+#main .filters .heading,
+#footer ul h4.heading {
+  color: #74C69D;
+}
+
+#main h4.heading a:visited,
+.tags li.warnings a.tag:visited,
+.tags li.relationships a.tag:visited,
+.tags li.characters a.tag:visited,
+.tags li.freeforms a.tag:visited,
+#main .fandoms a.tag:hover {
+  color: #1B4332;
+}
+
+.tags li.warnings a.tag,
+.warning ul.commas a.tag {
+  color: #d8f3dc;
+  background-color: #1B4332;
+}
+
+.tags li.relationships a.tag,
+.relationship ul.commas a.tag {
+  color: #081C15;
+  background-color: #40916C;
+}
+
+.tags li.relationships a.tag[href*="%20*a*%20" i],
+.tags li.relationships a.tag[href*="platonic" i],
+.relationship ul.commas a.tag[href*="%20*a*%20" i],
+.relationship ul.commas a.tag[href*="platonic" i] {
+  color: #40916C;
+  background-color: transparent;
+}
+
+.tags li.characters a.tag,
+.character ul.commas a.tag {
+  color: #95D5B2;
+}
+
+.tags li.freeforms a.tag,
+.freeform ul.commas a.tag {
+  color: #d8f3dc;
+}
+
+.fandom ul.commas a.tag {
+  color: #081C15;
+  background-color: #52B788;
+}
