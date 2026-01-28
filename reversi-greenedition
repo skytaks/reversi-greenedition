@@ -4,7 +4,7 @@
 #main .favorite .heading {
   color: #d8f3dc;
 }
-
+ 
 #header #greeting a:hover,
 #header .primary a:hover,
 #header .dropdown .menu a:hover,
