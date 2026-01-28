@@ -2,7 +2,7 @@ Hello!
 
 I have made a custom site skin, its my take on the reversi skin but with a green aesthetic to it, its meant to be a dark mode skin
 
-The code can be found here
+The code can be found [here](https://github.com/skytaks/reversi-greenedition/blob/main/reversi-greenedition)
 
 INSTALLATION:
 
