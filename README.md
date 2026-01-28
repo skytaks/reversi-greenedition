@@ -17,3 +17,7 @@ INSTALLATION:
 5. Go to the "advanced/media" section and select <strong>screen</strong>
 6. Go to the CSS section, and paste the code
 7. Go to submit and you're done! 
+
+![reversi green edition (2)](https://github.com/user-attachments/assets/3cc78f3f-6641-4b3a-a8a6-b9e73b7348ee)
+![reversi green edition (1)](https://github.com/user-attachments/assets/d82394f8-f5c9-45c3-aaad-abaa47ca5f04)
+![reversi green edition (3)](https://github.com/user-attachments/assets/428e4881-ab7f-453b-becf-bdaaa3982069)
