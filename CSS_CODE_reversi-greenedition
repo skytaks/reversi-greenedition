@@ -4,7 +4,23 @@
 #main .favorite .heading {
   color: #d8f3dc;
 }
- 
+
+#kudos_message,
+#bookmark-form .observe_textlength,
+input#bookmark_tag_string_autocomplete,
+input#bookmark_collection_names_autocomplete,
+#main .flash,
+#main .required,
+#main input[type="text"] {
+  color: #d8f3dc;
+  border-color: #B7E4C7;
+  background: transparent;
+}
+
+#add_comment .comment_form {
+  background: transparent;
+}
+
 #header #greeting a:hover,
 #header .primary a:hover,
 #header .dropdown .menu a:hover,
